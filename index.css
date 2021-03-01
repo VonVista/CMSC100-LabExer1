@@ -1,0 +1,24 @@
+body {
+    background-color: #1e1e1e;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ffffff;
+}
+
+
+h1 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffe604;
+}
+
+.heading {
+    background-color: #363636;
+    padding: 2vh;
+}
+
+.mainContent {
+    padding: 2vh;
+}
